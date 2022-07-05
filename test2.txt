@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  bu dosyanin icerisinde onemli bilgiler var
+=======
+yeni bir dosya actim
+>>>>>>> new-feature-2
